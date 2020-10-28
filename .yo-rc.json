@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.anno",
+      "nativeLanguage": "fr"
+    },
+    "jhipsterVersion": "6.10.4",
+    "applicationType": "microservice",
+    "baseName": "anno",
+    "packageName": "com.anno",
+    "packageFolder": "com/anno",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZmMyMjY0OGJiZGU2N2I1MDQxYTkzNjhhYjgyNWM2NjFhZTU4NjZiOTlhY2FmYmI1OWNmOTcwY2RmYzhjMjU4YTgzMmQyNGJhNGNkYWI1YzI5NTk4NTExMGE0MTdlNGM2ZmJlZDA1NzM0Nzk4YjMxNzc2YjM5MTUzNjY0NGQxMGY=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1603896013748,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "fr",
+    "languages": ["fr"],
+    "blueprints": [],
+    "reactive": true,
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
